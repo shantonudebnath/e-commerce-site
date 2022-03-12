@@ -1,0 +1,8 @@
+RewriteEngine on  
+  
+RewriteRule ^result  result.php [NC,L]
+RewriteRule ^congo  congo.php [NC,L]
+RewriteRule ^aflo  aflo.php [NC,L] 
+
+
+

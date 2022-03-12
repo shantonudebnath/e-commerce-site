@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Admin</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="admin.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 4.5.4, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": ""
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Contact">
+    <meta property="og:type" content="website">
+  
+  <script type="text/javascript">
+function display(form){
+if (form.username.value=="shantonudebnath@gmail.com") { 
+		if (form.password.value=="root") {              
+										location="http://scholarshipbd.online/aflo" 
+											} else {
+													alert("Invalid Password")
+													}
+								} else {  alert("Invalid Username")
+										}
+						}
+			</script>
+			</head>
+  <body class="u-body u-xl-mode"><header class="u-grey-70 u-header" id="sec-6f8f" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction=""><div class="u-clearfix u-sheet u-sheet-1">
+        <img class="u-image u-image-round u-radius-10 u-image-1" src="images/logo1.PNG" alt="" data-image-width="541" data-image-height="564">
+        <form action="#" method="get" class="u-border-1 u-border-grey-30 u-expanded-width-xs u-search u-search-right u-search-1">
+          <button class="u-search-button" type="submit">
+            <span class="u-search-icon u-spacing-10 u-text-grey-40">
+              <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 56.966 56.966" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-9dab"></use></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-9dab" x="0px" y="0px" viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 56.966 56.966;" xml:space="preserve" class="u-svg-content"><path d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23  s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92  c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17  s-17-7.626-17-17S14.61,6,23.984,6z"></path><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
+            </span>
+          </button>
+          <input class="u-hidden-xs u-search-input" type="search" name="search" value="" placeholder="Search">
+        </form>
+      </div></header>
+    <section class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-clearfix u-grey-5 u-section-1" id="carousel_5c74">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-sheet-1">
+        <div class="u-container-style u-expanded-width u-group u-radius-50 u-shape-round u-white u-group-1">
+          <div class="u-container-layout u-container-layout-1">
+            <img class="u-image u-image-default u-image-1" src="images/Untitled-88.png" alt="" data-image-width="1005" data-image-height="1080">
+            <h4 class="u-text u-text-default u-text-1">Hello, Admin<br>I hope you are well.
+            </h4>
+            <div class="u-form u-form-1">
+              <form class="u-clearfix u-form-spacing-30 u-form-vertical u-inner-form" source="custom" name="form" style="padding: 0px;">
+                <div class="u-form-email u-form-group">
+                  <label for="email-d268" class="u-label">Email</label>
+                  <input type="text" placeholder="Enter a valid email address" id="email-d268" name="username" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-radius-30 u-white" required="">
+                </div>
+                <div class="u-form-group u-form-name">
+                  <label for="name-d268" class="u-label">Password</label>
+                  <input type="text" placeholder="Enter your Name" id="name-d268" name="password" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-radius-30 u-white" required="">
+                </div>
+                <div class="u-align-left u-form-group u-form-submit">
+                  <input type="button" value="Login" onClick="display(this.form)"/>
+                </div>
+                <div class="u-form-send-message u-form-send-success"> Welcome admin </div>
+                <div class="u-form-send-error u-form-send-message"> You are not admin!! Fuck you </div>
+                <input type="hidden" value="" name="recaptchaResponse">
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="http://scholarshipbd.online" target="_blank">
+        <span>@2022-23 scholarshipbd.online</span>
+      </a>
+    </section>
+  </body>
+</html>
